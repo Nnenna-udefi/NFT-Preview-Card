@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nnenna-udefi/NFT-Preview-Card.git)
-- Live Site URL: [Add live site URL here](nft-preview-card-gvgibtv2y-nnenna-udefi.vercel.app)
+- Solution URL: (https://github.com/Nnenna-udefi/NFT-Preview-Card.git)
+- Live Site URL: (nft-preview-card-gvgibtv2y-nnenna-udefi.vercel.app)
 
 ## My process
 
