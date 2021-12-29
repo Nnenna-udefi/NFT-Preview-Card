@@ -50,7 +50,7 @@ Users should be able to:
 ## Author
 
 - Website - [Nnenna Udefi](https://github.com/Nnenna-udefi)
-- Frontend Mentor - [@nnennaudefi](https://www.frontendmentor.io/profile/nnennamiriamudefi)
+- Frontend Mentor - [@nnennamiriamudefi](https://www.frontendmentor.io/profile/nnenna-udefi)
 
 
 
