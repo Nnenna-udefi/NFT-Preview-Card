@@ -27,12 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpg)![nft desktop design](https://user-images.githubusercontent.com/68693000/147678902-e7caff7b-f4f0-4eb0-8514-e80f70718555.jpg)
+![nft mobile design](https://user-images.githubusercontent.com/68693000/147678915-2425ad45-25ea-4306-a551-c12ca9ee020a.jpg)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Nnenna-udefi/NFT-Preview-Card.git)
+- Live Site URL: [Add live site URL here](nft-preview-card-gvgibtv2y-nnenna-udefi.vercel.app)
 
 ## My process
 
