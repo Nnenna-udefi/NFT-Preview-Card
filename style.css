@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+  
+
+
+body{
+    background-color: hsl(217, 54%, 11%); 
+    font-size: 18px;
+    padding: 150px 50px 150px 50px;
+    font-family: 'Outfit', sans-serif;
+    width:100%;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.card{
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 20px;
+    padding: 25px;
+    margin: 20px;
+    width: 370px;
+    min-width: 300px;
+    height: auto;
+    
+}
+a{
+    text-decoration: none;
+}
+.mainimage{
+    border-radius: 15px;
+    width: 100%;
+    object-fit: cover;
+    
+}
+
+
+.image{
+    width: 80%;
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    
+}
+.image:hover .icon{
+    background-color: hsl(178, 100%, 50%);
+    cursor: pointer;
+    visibility: visible;
+    opacity: 0.5;
+}
+.icon {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: hsl(178, 100%, 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+}
+
+
+h1{
+    color:hsl(0, 0%, 100%);
+}
+.para{
+    color:hsl(215, 51%, 70%);
+}
+
+h1:hover{
+color: hsl(178, 100%, 50%);
+cursor: pointer;
+}
+.eth{
+    color:hsl(178, 100%, 50%);
+    padding-left: 1rem;
+}
+a{
+    color:hsl(0, 0%, 100%);
+}
+a:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+    }
+.ethereumwrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid hsl(215, 51%, 70%);
+}
+.ethereum{
+    display: flex;
+    
+}
+.time{
+    color:hsl(215, 51%, 70%);
+    padding-left: 1rem;
+}
+
+.clock{
+    display: flex;
+    
+}
+img{
+    object-fit: contain;   
+}
+
+.jules{
+    display: flex; 
+    padding: 10px;
+}
+
+.profile{
+    border: 1px solid hsl(0, 0%, 100%);
+    width: 55px;
+    border-radius: 50%;
+    margin-right: 16px;
+    
+}
+
+footer{
+    padding-top: 40px;
+    color:hsl(215, 51%, 70%);
+    text-align: center;
+}
+
+footer a{
+    color: white;
+}
+
+@media screen and (min-width: 800px) {
+    .card{
+        width: 70%;
+    
+    }
+    h1{
+        color:hsl(0, 0%, 100%);
+        font-size: 2.2rem;
+    }
+    .para{
+        color:hsl(215, 51%, 70%);
+        font-size: 1.8rem;
+    
+    }
+    
+}
